@@ -1,1 +1,1 @@
-# NeuralPurifier
+We are glad that you are interested in our work. The file "Evaluation_of_other_properties.pdf" contains the evaluation of the influence of triggers’ properties on backdoor detection. The dataset of Youtube-Face used in our experiments is also provided here. 
